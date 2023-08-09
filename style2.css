@@ -1,0 +1,38 @@
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 36px;
+    line-height: 40px;
+	float: right;
+	margin: right;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 20px;
+	
+}
+
+li{
+   float: left;
+   border-right: 1px solid #112233;
+ 
+   }
+   
+  
+
+a{
+  display: block;
+  padding: 0 28px;
+  color: red;
+  text-decoration: none;
+ }
+ a:hover, .active a{
+        background-color: #156ee2;
+        }
+		
+div
+{
+background-image: url('https://st4.depositphotos.com/2807103/24046/i/450/depositphotos_240460416-stock-photo-blurred-cafe-background-coffee-shop.jpg');
+background-size:cover;
+ 
+color: white;
+}

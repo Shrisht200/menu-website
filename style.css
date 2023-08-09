@@ -1,0 +1,55 @@
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 36px;
+    line-height: 40px;
+	float: right;
+	margin: right;
+	color: red;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 20px;
+	
+}
+
+li{
+   float: left;
+   border-right: 1px solid #112233;
+   
+}
+   
+  
+
+a{
+  display: block;
+  padding: 0 34px;
+  color: red;
+  text-decoration: none;
+ }
+ 
+ .text button{
+	width: 250px;
+	height: 44px;
+	background-color: white;
+	width: 250px;
+	height: 44px;
+	background-color: red;
+	color: black;
+	border: none;
+	font-size: 24px;
+	border-radius: 25px;
+	margin-top: 20px;
+	cursor: pointer;
+ }
+a:hover, .active a{
+        background-color: #156ee2;
+        }
+
+div
+{
+background-image: url(https://i.ibb.co/nzjq38x/Sona-restaurant.jpg);
+background-size:cover;
+ 
+color: white;
+}
